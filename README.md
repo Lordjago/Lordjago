@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lordjago
+- 👋 Hi, I’m abdul-Azeez Opeyemi Adegoke
 - 👀 I’m interested in back-end development
 - 🌱 I’m currently learning Cloud Services
 - 💞️ I’m looking to collaborate on working more efficiently
