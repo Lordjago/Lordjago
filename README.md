@@ -1,10 +1,13 @@
-- 👋 Hi, I’m abdul-Azeez Opeyemi Adegoke
-- 👀 I’m interested in back-end development
-- 🌱 I’m currently learning Cloud Services
-- 💞️ I’m looking to collaborate on working more efficiently
-- 📫 How to reach me adegokeabdulazeez653@gmail.com
+😊 Talking about Personal Stuffs:
+Adegoke Abdul-Azeez O.
 
-<!---
-Lordjago/Lordjago is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻   I love exploring new tech stacks and building cool stuff.
+📰   Reading tech blogs whenever possible.
+🍕   Travelling, meetups & tech events.
+🚀   I’m currently learning Full Stack Web Development with expertise in Backend Development.
+💻   Most written code line console.log("hello world");
+👨🏻‍💻   Most of my projects are available on Github.
+👾   Fun Fact: Equal is Not Always Equal in Javascript! 😹
+💞️ I’m looking to collaborate on working more efficiently
+📫 How to reach me adegokeabdulazeez653@gmail.com
+
