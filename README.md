@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Adegoke Abdul-Azeez O. and I'm a passionate Software Engineer from Nigeria</h2>
+<h2 align="left">Hi 👋! My name is Adegoke Abdul-Azeez O. I'm a passionate Software Engineer from Nigeria</h2>
 
 ###
 
