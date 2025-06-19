@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">💻   I love exploring new tech stacks and building cool stuff.<br>📰   Reading tech blogs whenever possible.<br>🍕   Travelling, meetups & tech events.<br>🚀   I’m currently learning Full Stack Web Development with expertise in Backend Development.<br>💻   Most written code line console.log("hello world");<br>👨🏻‍💻   Most of my projects are available on Github.<br>👾   Fun Fact: Equal is Not Always Equal in Javascript! 😹<br>💞️ I’m looking to collaborate on working more efficiently<br>📫 How to reach me adegokeabdulazeez653@gmail.com</p>
+<p align="left">💻   I love exploring new tech stacks and building cool stuff.<br>📰   Reading tech blogs whenever possible.<br>🍕   Travelling, meetups & tech events.<br>🚀   I’m currently learning Amazon Web Service.<br>💻   Most written code line console.log("Hello World");<br>👨🏻‍💻   Most of my projects are available on Github.<br>👾   Fun Fact: Equal is Not Always Equal in Javascript! 😹<br>💞️ I’m looking to collaborate on working more efficiently<br>📫 How to reach me adegokeabdulazeez653@gmail.com</p>
 
 ###
 
